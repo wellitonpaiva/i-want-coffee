@@ -1,0 +1,8 @@
+{
+  "name": "i-want-coffee",
+  "app_id": "6df0a5aa",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
